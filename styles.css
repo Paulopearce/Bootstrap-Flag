@@ -50,12 +50,12 @@ table {
 }
 
 .blue {
-  height: 165.9px;
+  height: 175px;
   background-color: blue;
 }
 
 .stars {
   background: url('union.png') center center;
-  max-width: 100%;
+  background-size: 100% 100%;
   height: 175px;
 }
